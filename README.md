@@ -1,4 +1,4 @@
-# AI-audio-visual-generative
+# Audio-to-Spectrogram app
 This is currently a work in progress and the first step of a bigger audio-visual project.
 
 1) For now, I added to this repository a simple Streamlit app to preview your audio tracks from a specific folder and convert them into their Mel Spectrogram. The spectrogram gets displayed on the webpage, and you can play around with the different Mel bands. You can run the app.py file with the Streamlit command: streamlit run app.py
